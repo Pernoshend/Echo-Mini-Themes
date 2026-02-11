@@ -3,7 +3,7 @@ This repo has firmwares with custom themes. YOU TAKE ALL THE RISKS!
 -------------------------------------------------------------
 **How Install?**
 
-Just drop .IMG file in internal storage of device (Not microSD card) and reboot. You will see screen about updating, wait and you will have custom theme
+FIRST EJECT MICROSD CARD! After, drop .IMG file in internal storage of device and reboot. You will see screen about updating, wait and you will have custom theme
 
 **How Restore?**
 
