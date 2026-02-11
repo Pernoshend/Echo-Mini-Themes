@@ -1,2 +1,19 @@
 # Echo-Mini-Themes
-This repo have firmwares with custom themes. You take all the risks
+This repo has firmwares with custom themes. YOU TAKE ALL THE RISKS!
+-------------------------------------------------------------
+**How Install?**
+
+Just drop .IMG file in internal storage of device (Not microSD card) and reboot. You will see screen about updating, wait and you will have custom theme
+
+**How Restore?**
+
+Download latest Echo Mini Firmware from offical FIIO site and install it.
+
+
+-------------------------------------------------------------
+
+![BMAINMENUPAGE10_(0,0)](https://github.com/user-attachments/assets/a2ed89e7-6f38-4c05-8776-675ffd795de7)
+
+**Name : Japan Wave**
+
+**Firmware version : 3.2.0**
