@@ -9,6 +9,9 @@ FIRST EJECT MICROSD CARD! After, drop .IMG file in internal storage of device an
 
 Download latest Echo Mini Firmware from offical FIIO site and install it.
 
+**Which tool has been used to create a theme?**
+
+I used open-source tool -> https://github.com/losses/flame-ocean-website
 
 -------------------------------------------------------------
 
