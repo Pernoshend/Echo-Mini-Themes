@@ -20,3 +20,16 @@ I used open-source tool -> https://github.com/losses/flame-ocean-website
 **Name : Japan Wave**
 
 **Firmware version : 3.2.0**
+
+-------------------------------------------------------------
+## License
+
+This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+When sharing, modifying, or redistributing this theme (including in social media posts),
+you must provide attribution by including:
+
+Author: Pernoshend  
+Source: https://github.com/Pernoshend/Echo-Mini-Themes
+
+If you modify the theme, you must indicate that changes were made.
