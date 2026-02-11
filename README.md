@@ -1,15 +1,15 @@
 # Echo-Mini-Themes
 This repo has firmwares with custom themes. YOU TAKE ALL THE RISKS!
 -------------------------------------------------------------
-**How Install?**
+- **How Install?**
 
 FIRST EJECT MICROSD CARD! After, drop .IMG file in internal storage of device and reboot. You will see screen about updating, wait and you will have custom theme
 
-**How Restore?**
+- **How Restore?**
 
 Download latest Echo Mini Firmware from offical FIIO site and install it.
 
-**Which tool has been used to create a theme?**
+- **Which tool has been used to create a theme?**
 
 I used open-source tool -> https://github.com/losses/flame-ocean-website
 
