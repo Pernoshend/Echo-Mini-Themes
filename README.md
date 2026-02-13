@@ -43,7 +43,10 @@ If you modify the theme, you must indicate that changes were made.
 -------------------------------------------------------------
 ## Image sources (Which under license)
 Japan wave background (White)
+
 This file is licensed under the Creative Commons Attribution 2.0 Generic license.
+
+To view a copy of this license, visit: https://creativecommons.org/licenses/by/2.0/deed.en
 
 Author : 雷太
 
@@ -52,7 +55,10 @@ Source : https://flickr.com/photos/128275472@N07/31952050487
 =============================================================
 
 Japan wave background (Cherry)
+
 This file is licensed under the Creative Commons Attribution 2.0 Generic license.
+
+To view a copy of this license, visit: https://creativecommons.org/licenses/by/2.0/deed.en
 
 Author : 雷太
 
