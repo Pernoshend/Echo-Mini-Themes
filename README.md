@@ -19,6 +19,7 @@ I used open-source tool -> https://github.com/losses/flame-ocean-website
 ## Themes 🎨
 
 ![BMAINMENUPAGE10_(0,0)](https://github.com/user-attachments/assets/a2ed89e7-6f38-4c05-8776-675ffd795de7)
+[MAINMENUPAGE10_(0,0).BMP](https://github.com/user-attachments/files/25285653/MAINMENUPAGE10_.0.0.BMP)
 
 **Name : Japan Wave**
 
