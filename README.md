@@ -20,6 +20,8 @@ I used open-source tool -> https://github.com/losses/flame-ocean-website
 
 ![BMAINMENUPAGE10_(0,0)](https://github.com/user-attachments/assets/a2ed89e7-6f38-4c05-8776-675ffd795de7)
 ![White](https://github.com/user-attachments/assets/502616d5-0ff1-4901-b2a4-2f8c1e327652)
+![Cherry](https://github.com/user-attachments/assets/60140730-f791-4a6b-a667-3753def4fd9f)
+
 
 
 **Name : Japan Wave**
