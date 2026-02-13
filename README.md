@@ -21,6 +21,9 @@ I used open-source tool -> https://github.com/losses/flame-ocean-website
 ![BMAINMENUPAGE10_(0,0)](https://github.com/user-attachments/assets/a2ed89e7-6f38-4c05-8776-675ffd795de7)
 ![White](https://github.com/user-attachments/assets/502616d5-0ff1-4901-b2a4-2f8c1e327652)
 ![Cherry](https://github.com/user-attachments/assets/60140730-f791-4a6b-a667-3753def4fd9f)
+![Blue](https://github.com/user-attachments/assets/2147ce58-a14a-4d93-9478-51a73d7cd8cf)
+
+
 
 
 
@@ -44,7 +47,7 @@ If you modify the theme, you must indicate that changes were made.
 ## Image sources (Which under license)
 Japan wave background (White)
 
-This file is licensed under the Creative Commons Attribution 2.0 Generic license.
+This file is licensed under the Creative Commons Attribution 2.0 Generic license. (CC BY 2.0)
 
 To view a copy of this license, visit: https://creativecommons.org/licenses/by/2.0/deed.en
 
@@ -52,14 +55,26 @@ Author : 雷太
 
 Source : https://flickr.com/photos/128275472@N07/31952050487
 
-=============================================================
+============================
 
 Japan wave background (Cherry)
 
-This file is licensed under the Creative Commons Attribution 2.0 Generic license.
+This file is licensed under the Creative Commons Attribution 2.0 Generic license. (CC BY 2.0)
 
 To view a copy of this license, visit: https://creativecommons.org/licenses/by/2.0/deed.en
 
 Author : 雷太
 
 Source : https://flickr.com/photos/raita/45966828905/in/photostream/
+
+============================
+
+Japan wave background (Blue)
+
+This file is licensed under the Creative Commons Attribution 2.0 Generic license. (CC BY 2.0)
+
+To view a copy of this license, visit: https://creativecommons.org/licenses/by/2.0/deed.en
+
+Author : 雷太
+
+Source : https://flickr.com/photos/raita/49886955906/
