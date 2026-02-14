@@ -22,10 +22,7 @@ I used open-source tool -> https://github.com/losses/flame-ocean-website
 ![White](https://github.com/user-attachments/assets/502616d5-0ff1-4901-b2a4-2f8c1e327652)
 ![Cherry](https://github.com/user-attachments/assets/60140730-f791-4a6b-a667-3753def4fd9f)
 ![Blue](https://github.com/user-attachments/assets/2147ce58-a14a-4d93-9478-51a73d7cd8cf)
-
-
-
-
+![Gold](https://github.com/user-attachments/assets/e7343090-1d32-4276-8fbd-40b19b4cdb82)
 
 **Name : Japan Wave**
 
@@ -78,3 +75,15 @@ To view a copy of this license, visit: https://creativecommons.org/licenses/by/2
 Author : 雷太
 
 Source : https://flickr.com/photos/raita/49886955906/
+
+===========================
+
+Japan wave background (Gold)
+
+This file is licensed under the Creative Commons Attribution 2.0 Generic license. (CC BY 2.0)
+
+To view a copy of this license, visit: https://creativecommons.org/licenses/by/2.0/deed.en
+
+Author : 雷太
+
+Source : https://flickr.com/photos/raita/54166833697/in/photostream/
